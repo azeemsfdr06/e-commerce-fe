@@ -1,5 +1,4 @@
-import { Search } from 'lucide-react'
-import heroImage from './heroImage.png';
+import { Search } from 'lucide-react';
 
 export default function HeroSection() {
   return (
